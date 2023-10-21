@@ -1,0 +1,52 @@
+Tipo de material: Madera
+Color: Café
+Estilo: Clásico
+----------------------------------
+Tipo de material: Madera
+Color: Café
+Estilo: Clásico
+----------------------------------
+Tipo de material: madera
+Color: azul
+Estilo: europa
+----------------------------------
+Tipo de material: metal
+Color: negro
+Estilo: sada
+----------------------------------
+Tipo de material: 1
+Color: 1
+Estilo: 1
+----------------------------------
+Tipo de material: madera
+Color: azul
+Estilo: moderon
+----------------------------------
+Tipo de material: 1
+Color: 12
+Estilo: 12
+----------------------------------
+Tipo de material: madera
+Color: azul
+Estilo: madera
+----------------------------------
+Tipo de material: Madera
+Color: Café
+Estilo: Moderna
+----------------------------------
+Tipo de material: Plástico
+Color: Blanca
+Estilo: Moderna
+----------------------------------
+Tipo de material: madera
+Color: 12
+Estilo: nuevo
+----------------------------------
+Tipo de material: madera
+Color: azul
+Estilo: d
+----------------------------------
+Tipo de material: madera
+Color: azul
+Estilo: tojo
+----------------------------------

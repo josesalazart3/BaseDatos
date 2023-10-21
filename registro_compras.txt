@@ -1,0 +1,60 @@
+Fecha: Fri Oct 20 14:06:54 CST 2023
+Material: MaterialPrueba
+Cantidad: 10
+Costo unitario: $10.0
+Costo total: $100.0
+----------------------------------
+Fecha: Fri Oct 20 16:50:16 CST 2023
+Material: MaterialPrueba
+Cantidad: 10
+Costo unitario: $1.0
+Costo total: $10.0
+----------------------------------
+Fecha: Fri Oct 20 16:55:05 CST 2023
+Material: MaterialPrueba
+Cantidad: 10
+Costo unitario: $20.0
+Costo total: $200.0
+----------------------------------
+Fecha: Fri Oct 20 17:03:09 CST 2023
+Material: MaterialPrueba
+Cantidad: 10
+Costo unitario: $20.0
+Costo total: $200.0
+----------------------------------
+Fecha: Fri Oct 20 17:11:05 CST 2023
+Material: MaterialPrueba
+Cantidad: 10
+Costo unitario: $1.0
+Costo total: $10.0
+----------------------------------
+Fecha: Fri Oct 20 17:15:45 CST 2023
+Material: MaterialPrueba
+Cantidad: 10
+Costo unitario: $22.0
+Costo total: $220.0
+----------------------------------
+Fecha: Fri Oct 20 17:22:01 CST 2023
+Material: MaterialPrueba
+Cantidad: 1
+Costo unitario: $12.0
+Costo total: $12.0
+----------------------------------
+Fecha: Fri Oct 20 17:51:41 CST 2023
+Material: madera
+Cantidad: 20
+Costo unitario: $15.0
+Costo total: $300.0
+----------------------------------
+Fecha: Fri Oct 20 18:01:53 CST 2023
+Material: clavo
+Cantidad: 20
+Costo unitario: $35.0
+Costo total: $700.0
+----------------------------------
+Fecha: Fri Oct 20 18:16:54 CST 2023
+Material: mesa
+Cantidad: 300
+Costo unitario: $140.0
+Costo total: $42000.0
+----------------------------------

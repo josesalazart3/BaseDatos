@@ -1,0 +1,8 @@
+Fecha: Fri Oct 20 15:36:05 CST 2023
+Material: m
+Cantidad utilizada: 9
+----------------------------------
+Fecha: Fri Oct 20 17:01:52 CST 2023
+Material: madera
+Cantidad utilizada: 10
+----------------------------------
